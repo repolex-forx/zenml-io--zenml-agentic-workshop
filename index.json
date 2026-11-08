@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "zenml-agentic-workshop",
+  "versions": [
+    {
+      "commit": "259ed0154f05123268be07a9f3618d62d87e75b9",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:40:15.980095+00:00"
+    }
+  ]
+}

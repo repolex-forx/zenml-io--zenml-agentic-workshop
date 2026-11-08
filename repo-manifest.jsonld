@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/zenml-io/zenml-agentic-workshop/commit/259ed0154f05123268be07a9f3618d62d87e75b9",
       "git:hexsha": "259ed0154f05123268be07a9f3618d62d87e75b9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T05:40:15.979659+00:00"
     }
   ]
 }
